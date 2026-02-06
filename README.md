@@ -8,10 +8,11 @@ I don't know what I do anymore, I just kinda make project that solve my problems
 ![](https://github-readme-stats.vercel.app/api?username=ImPot8o&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://streak-stats.demolab.com?user=ImPot8o&theme=tokyonight&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ImPot8o&theme=tokyonight&hide_border=true&layout=compact)
+![](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 
 ## 🏆 Trophies
-![](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+![](https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=24&center=true&vCenter=true&width=600&lines=Java+Developer;Minecraft+Modder;Open+Source+Builder)
 
 ---
 ![](https://komarev.com/ghpvc/?username=ImPot8o&label=Profile%20Views&color=0e75b6&style=flat)
