@@ -13,7 +13,8 @@ I don't know what I do anymore, I just kinda make project that solve my problems
 
 
 ## 🏆 Trophies
-![](https://github-profile-trophy.vercel.app/?username=ImPot8o&theme=tokyonight&no-frame=true&margin-w=6)
+![](https://github-trophies.vercel.app/?username=ImPot8o&theme=onedark)
+
 
 ---
 ![](https://komarev.com/ghpvc/?username=ImPot8o&label=Profile%20Views&color=0e75b6&style=flat)
