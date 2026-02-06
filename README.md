@@ -11,8 +11,7 @@ I don't know what I do anymore, I just kinda make project that solve my problems
 
 
 ## 🏆 Trophies
-![](https://github-profile-trophy.vercel.app/?username=ImPot8o&theme=tokyonight&no-frame=true&margin-w=6)
-![](https://github-readme-activity-graph.vercel.app/graph?username=ImPot8o&theme=tokyo-night&hide_border=true)
+![](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 ---
 ![](https://komarev.com/ghpvc/?username=ImPot8o&label=Profile%20Views&color=0e75b6&style=flat)
