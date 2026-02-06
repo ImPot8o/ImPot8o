@@ -7,9 +7,9 @@ I don't know what I do anymore, I just kinda make project that solve my problems
 
 
 # 📊 Stats:
-![](https://github-readme-stats.vercel.app/api?username=ImPot8o&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
-![](https://streak-stats.demolab.com?user=ImPot8o&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ImPot8o&theme=dark&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ImPot8o&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ImPot8o&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ImPot8o&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 ## 🏆 Trophies
